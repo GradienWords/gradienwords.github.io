@@ -7,7 +7,7 @@
 				}
 				div.cuerpo
 				{
-					width:74%;
+					width:80%;
 				}
 				div.partners
 				{
@@ -21,15 +21,6 @@
 				body ul
 				{
 					width:84%;
-				}
-				div.twitt
-				{
-					position:relative;
-					top:0;
-					left:8%;
-					float:left;
-					margin-top:10px;
-					width:50%;
 				}
 				p
 				{
@@ -107,13 +98,6 @@
 				width:99%;
 				position:relative;
 				margin-top:20px;
-			}
-			.twitt
-			{
-				position:absolute;
-				top:180px;
-				width:15%;
-				right:9%;
 			}
 			ul {
 				list-style-type: none;
